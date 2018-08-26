@@ -5,8 +5,7 @@
  A python program which creates HTML for a movie website which shows grid of movie posters
  click on the poster to play its trailer
 # REQUIREMENTS AND RELIABLES:
- -python 2.7.9 version for better running of this project
- -project executable in the default path, like add extensions while installing it
+ version : python 2.7.9 for better running of this project,executable in the default path, like add extensions while installing it
 # CONTENTS:
 1. media.py: python script which contains class Movie.
 2. entertainment_center.py - main script where we run the program
