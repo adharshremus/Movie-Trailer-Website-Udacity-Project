@@ -18,6 +18,8 @@ class Movie():
         self.trailer_youtube_url = trailer_youtube
      """self - access the python classes"""
     def show_trailer(self):
-        
+        """self - refers to a variable field within the class
+        this function show_trailer(self) shows up trailer
+        self is used as a strong convention"""
         webbrowser.open(self.trailer_youtube_url)
 
