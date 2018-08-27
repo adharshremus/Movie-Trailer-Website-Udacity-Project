@@ -21,4 +21,4 @@ The Python module called fresh_tomatoes.py has a function called open_movies_pag
  1. open the media.py and do changes if needed
  2. open the entertainment_center.py and run the module
 # TESTS
- the HTML page runs smoothly without any errors
+HTML page runs smoothly without any errors
